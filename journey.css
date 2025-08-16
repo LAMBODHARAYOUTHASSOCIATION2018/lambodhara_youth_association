@@ -61,7 +61,7 @@ body {
 }
 
 .gallery img {
-  width: 100%;
+  width: 120%;
   max-width: 300px;
   height: auto;
   border-radius: 10px;
@@ -100,6 +100,7 @@ body {
     max-width: 90%;
   }
 }
+
 
 
 
