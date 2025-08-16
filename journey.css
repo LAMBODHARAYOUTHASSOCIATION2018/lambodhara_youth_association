@@ -39,7 +39,7 @@ body {
 }
 
 .journey-section h2 {
-  font-size: 24px;
+  font-size: 40px;
   margin-bottom: 10px;
   color: #b35900;
 }
@@ -100,4 +100,5 @@ body {
     max-width: 90%;
   }
 }
+
 
