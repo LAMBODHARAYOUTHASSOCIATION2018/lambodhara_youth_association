@@ -45,7 +45,7 @@ body {
 }
 
 .journey-text {
-  font-size: 16px;
+  font-size: 30px;
   max-width: 600px;
   margin: 0 auto 30px;
   color: #4a2c00;
@@ -100,5 +100,6 @@ body {
     max-width: 90%;
   }
 }
+
 
 
