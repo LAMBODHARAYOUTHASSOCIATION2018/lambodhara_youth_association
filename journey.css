@@ -81,7 +81,7 @@ body {
   }
 
   .header h1 {
-    font-size: 20px;
+    font-size: 50px;
   }
 
   .journey-section {
@@ -97,9 +97,10 @@ body {
   }
 
   .gallery img {
-    max-width: 90%;
+    max-width: 110%;
   }
 }
+
 
 
 
